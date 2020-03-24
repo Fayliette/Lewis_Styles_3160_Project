@@ -3,7 +3,7 @@
 This is Group 5.
 The group members are:
 Fayliette Lewis
-Heath-Von Styles
+Heath-Vonn Styles
 
 TOC:
 Introduction
