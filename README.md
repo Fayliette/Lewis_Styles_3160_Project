@@ -1,6 +1,7 @@
 ITCS 3160 - Database Desigan and Implementation
 
 Group Name: Lewis_Styles
+
 The group members are Fayliette Lewis and Heath-Vonn Styles
 
 In this project we will create a database for a campus controlled delivery service. The objective of this delivery service is to limit deliveries from visitors that may or may not have a formal connection with the university. The delivery drivers making the deliveries will be students. The database will serve as an important collection source providing valuable information about nutrition and eating habits of campus community members.
