@@ -16,6 +16,7 @@ Business Rules:
 7. Food providers or restaurants have to be approved
 
 Use Case: See Use Case file
+![](Use%20Case%20Diagram.pdf)
 
 EERD: See EERD file
 
