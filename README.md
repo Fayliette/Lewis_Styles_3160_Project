@@ -15,7 +15,8 @@ Business Rules:
 6. Person can have one to many orders.
 7. Food providers or restaurants have to be approved
 
-Use Case: See Use Case file
+Use Case:
+
 ![](imgs/use_case.png)
 
 EERD: See EERD file
