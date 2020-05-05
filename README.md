@@ -19,6 +19,10 @@ Use Case:
 
 ![](imgs/use_case.png)
 
+Data Dictionary: 
+
+![](imgs/dictionary.png)
+
 EERD: See EERD file
 
-Data Dictionary: See Data Dictionary file
+
